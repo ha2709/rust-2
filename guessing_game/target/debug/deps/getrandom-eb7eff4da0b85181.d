@@ -1,0 +1,13 @@
+/home/ha/Downloads/program/guessing_game/target/debug/deps/getrandom-eb7eff4da0b85181.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/home/ha/Downloads/program/guessing_game/target/debug/deps/libgetrandom-eb7eff4da0b85181.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/home/ha/Downloads/program/guessing_game/target/debug/deps/getrandom-eb7eff4da0b85181.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs:
